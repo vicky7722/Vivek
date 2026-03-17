@@ -1,0 +1,3 @@
+While Installing the ORACLE it is Asking DATABASE Password. 
+
+USE Username- system   Password- admin
